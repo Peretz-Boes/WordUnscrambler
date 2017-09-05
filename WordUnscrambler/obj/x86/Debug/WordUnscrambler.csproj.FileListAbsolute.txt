@@ -1,0 +1,4 @@
+C:\Users\Peretz\Documents\Visual Studio 2010\Projects\WordUnscrambler\WordUnscrambler\bin\Debug\WordUnscrambler.exe
+C:\Users\Peretz\Documents\Visual Studio 2010\Projects\WordUnscrambler\WordUnscrambler\bin\Debug\WordUnscrambler.pdb
+C:\Users\Peretz\Documents\Visual Studio 2010\Projects\WordUnscrambler\WordUnscrambler\obj\x86\Debug\WordUnscrambler.exe
+C:\Users\Peretz\Documents\Visual Studio 2010\Projects\WordUnscrambler\WordUnscrambler\obj\x86\Debug\WordUnscrambler.pdb
